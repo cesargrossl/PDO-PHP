@@ -1,2 +1,4 @@
-# PDO-PHP
+# Script para fazer conexão com banco de dados PDO com PHP
 Rotina de conexão banco de dados em PDO PHP
+
+Script simples
