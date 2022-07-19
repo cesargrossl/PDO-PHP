@@ -13,6 +13,9 @@ $db->AbreConexao('portal');
         foreach ($qry as $conta=>$row) {
             echo  $row["tes_nome"]; echo '<br>';
         }
+
+
+        
     }
 $db->FechaConexao('portal');
 //exemplo 02 UPDATE;
